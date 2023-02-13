@@ -1,5 +1,3 @@
-package Recursion;
-
 public class main{
     public static void main(String[] args){
         Print(5);
